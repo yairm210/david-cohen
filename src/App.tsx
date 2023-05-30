@@ -15,8 +15,14 @@ function App() {
           Use the QR code to start the session.
            After the session you will automatically receive the file using SMS, Whatsapp or email.
         </Card.Text>
-        <label>Email</label> 
-        <input type='email' name='email'/>
+        <div className="container-input email">
+          <label>Email</label> 
+          <input type='email' name='email'/>
+        </div>
+        <div className="container-input">
+          <label>Phone number</label> 
+          <input type='number' name='phone'/>
+        </div>
         <Button variant="primary">Generate</Button>
       </Card.Body>
     </Card>
