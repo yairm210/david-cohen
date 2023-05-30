@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/david-cohen/static/css/main.30ea52ad.css",
-    "main.js": "/david-cohen/static/js/main.7e25e02a.js",
+    "main.js": "/david-cohen/static/js/main.b13335f0.js",
     "static/js/787.fd9364f2.chunk.js": "/david-cohen/static/js/787.fd9364f2.chunk.js",
     "index.html": "/david-cohen/index.html",
     "main.30ea52ad.css.map": "/david-cohen/static/css/main.30ea52ad.css.map",
-    "main.7e25e02a.js.map": "/david-cohen/static/js/main.7e25e02a.js.map",
+    "main.b13335f0.js.map": "/david-cohen/static/js/main.b13335f0.js.map",
     "787.fd9364f2.chunk.js.map": "/david-cohen/static/js/787.fd9364f2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30ea52ad.css",
-    "static/js/main.7e25e02a.js"
+    "static/js/main.b13335f0.js"
   ]
 }
